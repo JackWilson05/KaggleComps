@@ -1,2 +1,4 @@
 #ignore all things in datasets folder
-Datasets/* 
+Datasets/ 
+*.csv
+*ENV/
